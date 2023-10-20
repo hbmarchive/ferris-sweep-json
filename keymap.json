@@ -76,7 +76,7 @@
       "KC_ESC",
       "KC_TAB",
       "KC_NO",
-      "MO(4)"
+      "OSL(4)"
     ],
     [
       "KC_PAST",
@@ -256,7 +256,7 @@
       "KC_ESC",
       "KC_TAB",
       "KC_NO",
-      "MO(8)"
+      "OSL(8)"
     ],
     [
       "KC_PSCR",
