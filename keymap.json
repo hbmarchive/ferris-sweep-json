@@ -38,8 +38,8 @@
       "LCTL_T(KC_DOT)",
       "KC_SLSH",
       "OSM(MOD_LSFT)",
-      "KC_SPC",
-      "KC_ENT",
+      "LT(3,KC_SPC)",
+      "LT(2,KC_ENT)",
       "OSL(1)"
     ],
     [
@@ -218,8 +218,8 @@
       "LCTL(KC_DOT)",
       "KC_SLSH",
       "OSM(MOD_LSFT)",
-      "KC_SPC",
-      "KC_ENT",
+      "LT(7,KC_SPC)",
+      "LT(2,KC_ENT)",
       "OSL(6)"
     ],
     [
